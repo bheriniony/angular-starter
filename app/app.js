@@ -9,7 +9,7 @@ import './vendors';
 
 import login from './components/login/login';
 //import version from './components/version/version';
-
+//test git
 angular.module('app', [
   'ui.router',
   'ngAria',
